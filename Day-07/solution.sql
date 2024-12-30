@@ -1,5 +1,4 @@
 -- Solution for Day 7: SQL Advent Calendar
--- Language: SQL
 
 SELECT 
     v.vendor_name,
