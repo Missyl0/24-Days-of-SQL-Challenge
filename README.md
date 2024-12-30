@@ -10,3 +10,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 4: Average Snowfall by Region](Day-04/question.md)**
 - **[Day 5: Beaches with Hot Temperatures on Christmas](Day-05/question.md)**
 - **[Day 6: Tracking Polar Bears’ Migration](Day-06/question.md)**
+- **[Day 7: Highest Revenue Vendors](Day-07/question.md)** 
