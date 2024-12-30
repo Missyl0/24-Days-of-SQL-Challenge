@@ -1,5 +1,6 @@
 -- Solution for Day 7: SQL Advent Calendar
-
+language:SQL
+    
 SELECT 
     v.vendor_name,
     SUM(s.quantity_sold * s.price_per_unit) AS total_revenue
