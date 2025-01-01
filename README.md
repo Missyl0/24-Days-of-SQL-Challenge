@@ -12,3 +12,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 6: Tracking Polar Bears’ Migration](Day-06/question.md)** **-> [Solution](Day-06/solution.sql)**
 - **[Day 7: Highest Revenue Vendors](Day-07/question.md)** **-> [Solution](Day-07/solution.sql)**
 - **[Day 8: Gifts for Good Recipients](Day-08/question.md)** **-> [Solution](Day-08/solution.sql)**
+- **[Day 9: Top Calorie-Dense Dishes by Event](Day-09/question.md)** **-> [Solution](Day-09/solution.sql)**
