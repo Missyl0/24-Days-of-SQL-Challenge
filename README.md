@@ -13,3 +13,6 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 7: Highest Revenue Vendors](Day-07/question.md)** **-> [Solution](Day-07/solution.sql)**
 - **[Day 8: Gifts for Good Recipients](Day-08/question.md)** **-> [Solution](Day-08/solution.sql)**
 - **[Day 9: Top Calorie-Dense Dishes by Event](Day-09/question.md)** **-> [Solution](Day-09/solution.sql)**
+- **[Day 10: Tracking New Year’s Resolutions](Day-10/question.md)** **-> [Solution](Day-10/solution.sql)**
+- **[Day 11: Family Birthdays in December](Day-11/question.md)** **-> [Solution](Day-11/solution.sql)**
+- **[Day 12: Top 3 Snow Globes with Most Figurines](Day-12/question.md)** **-> [Solution](Day-12/solution.sql)**
