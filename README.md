@@ -16,3 +16,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 10: Tracking New Year’s Resolutions](Day-10/question.md)** **-> [Solution](Day-10/solution.sql)**
 - **[Day 11: Family Birthdays in December](Day-11/question.md)** **-> [Solution](Day-11/solution.sql)**
 - **[Day 12: Top 3 Snow Globes with Most Figurines](Day-12/question.md)** **-> [Solution](Day-12/solution.sql)**
+- **[Day 13: Total Weight of Gifts per Recipient](Day-13/question.md)** **-> [Solution](Day-13/solution.sql)**
