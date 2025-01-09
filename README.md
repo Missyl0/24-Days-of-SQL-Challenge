@@ -20,3 +20,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 14: Ski Resorts with Snowfall > 50 Inches](Day-14/question.md)** **-> [Solution](Day-14/solution.sql)**
 - **[Day 15: Top 3 Family Members with Most Children](Day-15/question.md)** **-> [Solution](Day-15/solution.sql)**
 - **[Day 16: Total Revenue per Candy Category](Day-16/question.md)** **-> [Solution](Day-16/solution.sql)**
+- **[Day 17: Advanced and Expert Grinch Pranks](Day-17/question.md)** **-> [Solution](Day-17/solution.sql)**
