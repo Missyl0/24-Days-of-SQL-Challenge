@@ -22,3 +22,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 16: Total Revenue per Candy Category](Day-16/question.md)** **-> [Solution](Day-16/solution.sql)**
 - **[Day 17: Advanced and Expert Grinch Pranks](Day-17/question.md)** **-> [Solution](Day-17/solution.sql)**
 - **[Day 18: Top 2 Activities by Average Rating](Day-18/question.md)** **-> [Solution](Day-18/solution.sql)**
+- **[Day 19: Maximum Food Consumption by Polar Bears](Day-19/question.md)** **-> [Solution](Day-19/solution.sql)**
