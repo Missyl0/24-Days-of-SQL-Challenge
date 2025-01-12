@@ -23,3 +23,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 17: Advanced and Expert Grinch Pranks](Day-17/question.md)** **-> [Solution](Day-17/solution.sql)**
 - **[Day 18: Top 2 Activities by Average Rating](Day-18/question.md)** **-> [Solution](Day-18/solution.sql)**
 - **[Day 19: Maximum Food Consumption by Polar Bears](Day-19/question.md)** **-> [Solution](Day-19/solution.sql)**
+- **[Day 20: Vendors Selling Items Below $10](Day-20/question.md)** **-> [Solution](Day-20/solution.sql)**
