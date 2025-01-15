@@ -26,3 +26,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 20: Vendors Selling Items Below $10](Day-20/question.md)** **-> [Solution](Day-20/solution.sql)**
 - **[Day 21: Santa's Sleigh Optimization](Day-21/question.md)** **-> [Solution](Day-21/solution.sql)**
 - **[Day 22: Missing Gift Assignments](Day-22/question.md)** **-> [Solution](Day-22/solution.sql)**
+- **[Day 23: Weight Change for Each Day](Day-23/question.md)** **-> [Solution](Day-23/solution.sql)**
