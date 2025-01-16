@@ -27,3 +27,4 @@ Welcome to the SQL Advent Calendar Challenge!🎄 Each day features a new SQL ch
 - **[Day 21: Santa's Sleigh Optimization](Day-21/question.md)** **-> [Solution](Day-21/solution.sql)**
 - **[Day 22: Missing Gift Assignments](Day-22/question.md)** **-> [Solution](Day-22/solution.sql)**
 - **[Day 23: Weight Change for Each Day](Day-23/question.md)** **-> [Solution](Day-23/solution.sql)**
+- **[Day 24: Cumulative Gifts Delivered](Day-24/question.md)** **-> [Solution](Day-24/solution.sql)**
